@@ -9,6 +9,7 @@ class Dashboard extends Component {
       web3: null,
       accounts: null,
       currentAccount: null,
+      market: null,
       blind_contract: null,
       formData: {}
     }
